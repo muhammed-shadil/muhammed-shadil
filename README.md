@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammed-shadil.github.io/Shadil-Portfolio/](https://muhammed-shadil.github.io/Shadil-Portfolio/)
 
-- 💬 Ask me about **DART,FLUTTER,FIREBASE,BLOC,PROVIDER**
+- 💬 Ask me about **DART, FLUTTER, FIREBASE, BLOC, PROVIDER**
 
 - 📫 How to reach me **muhammedshadil220@gmail.com**
 
