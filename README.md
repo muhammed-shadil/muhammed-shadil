@@ -2,41 +2,30 @@
 <h3 align="center">Flutter Developer — 3+ years shipping production apps end to end</h3>
 
 <p align="center">
-  <a href="https://muhammed-shadil.github.io/muhammed-shadil-portfolio/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muhammed-shadil-45973a28b">LinkedIn</a> •
-  <a href="mailto:muhammedshadil220@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+BLoC+%7C+GetX;10%2B+apps+on+Google+Play;7%2B+apps+on+the+App+Store;Building+apps+%2B+the+backends+behind+them" alt="Typing SVG" />
 </p>
 
----
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🚀 About Me
 
-Flutter developer at **Geeksynergy Technologies, Bengaluru**, with **10+ apps on Google Play** and **7+ on the App Store** across property management, healthcare, travel booking, cargo tracking, and e-commerce.
+- 💼 Flutter Developer @ **Geeksynergy Technologies, Bengaluru**
+- 📱 **10+ Play Store** & **7+ App Store** production deployments
+- 💳 Payments (Razorpay, Easebuzz) • 🎥 Live video (ZegoCloud) • 💬 Real-time chat (Socket.IO)
+- ✈️ Travel APIs (TripJack, TBO) • 🏠 SaaS property management
+- 🌐 Portfolio: [muhammed-shadil.github.io](https://muhammed-shadil.github.io/muhammed-shadil-portfolio/)
+- 📫 Reach me: **muhammedshadil220@gmail.com**
 
-I ship the whole product — Flutter apps backed by REST APIs (Node.js), payment gateways, real-time SDKs, and production deployments.
-
-- 💼 Building **RentDoor** — SaaS rental property management (Razorpay Routes split payments, KYC, agreements)
-- 🏥 Shipped **Zenvy** — doctor consultations with live video (ZegoCloud), chat (Socket.IO), payments
-- ✈️ Built **Flyden Holidays** — flight/hotel booking on TripJack & TBO live inventory APIs
-- 📦 Delivered **Airbest** — cargo booking & real-time shipment tracking synced with internal systems
+<br clear="right"/>
 
 ### 🛠️ Tech Stack
 
-**Core:** Flutter • Dart
-**State Management:** BLoC • GetX • Provider
-**Architecture:** Clean Architecture • MVVM • MVC
-**Backend & Data:** REST APIs (Node.js) • Firebase • Firestore • Hive • SQFlite • MongoDB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,sqlite,git,github,figma,postman,vscode,androidstudio&perline=6" alt="tech stack" />
+</p>
+
+**State Management:** BLoC • GetX • Provider &nbsp;|&nbsp; **Architecture:** Clean Architecture • MVVM • MVC
 **Integrations:** Razorpay • Easebuzz • ZegoCloud • Socket.IO • TripJack • TBO
-**Tools:** Git • GitHub • Bitbucket • Postman • Figma • Play Console • App Store Connect
-
-### 📱 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [MEDICO](https://github.com/muhammed-shadil/doctor-booking-app) | Doctor appointment booking — [live on Play Store](https://play.google.com/store/apps/details?id=com.selfstack.doctors_book_app) | Flutter, Firebase, BLoC |
-| RentDoor | SaaS rental management, owner + tenant apps, split payments | Flutter, GetX, Node.js, Razorpay |
-| Zenvy | Doctor consultation with live video calls & in-app chat | Flutter, ZegoCloud, Socket.IO |
-| Shwe Nan Taw | Jewellery e-commerce with full checkout flow | Flutter, Provider, Clean Architecture |
 
 ### 📊 GitHub Stats
 
@@ -45,6 +34,22 @@ I ship the whole product — Flutter apps backed by REST APIs (Node.js), payment
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-shadil&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-shadil&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+</p>
+
 ---
 
-<p align="center">📫 Open to Flutter & full-stack mobile opportunities — <b>muhammedshadil220@gmail.com</b></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-shadil-45973a28b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://muhammed-shadil.github.io/muhammed-shadil-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:muhammedshadil220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-F4F4F7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+</p>
+
+<p align="center">📈 <i>Open to Flutter & full-stack mobile opportunities</i></p>
